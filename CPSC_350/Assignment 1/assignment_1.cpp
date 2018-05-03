@@ -16,10 +16,10 @@ assignment_1::assignment_1()
 
 assignment_1::~assignment_1()
 {
-	cout << "the object has been deleted" << endl; 
+	 
 }
 
-void assignment_1::readDnaFile(string file)
+void assignment_1::readDnaFile(string dnaFile)
 {
 		ifstream myfile;
 		myfile.open(dnaFile);
@@ -51,7 +51,7 @@ void assignment_1::readDnaFile(string file)
 		tt_counter = 0;
 
 		sum = 0;
-		bigram_sum = sum - 1;
+		bigram_sum = sum -1;
 		line_counter = 0;
 		variance = 0;
 
@@ -101,7 +101,7 @@ void assignment_1::readDnaFile(string file)
 				}
 				else
 				{
-					bigramString.erase(bigram.begin());
+					bigramString.erase(bigramString.begin());
 					bigramString += line[i];
 				}
 
@@ -195,7 +195,7 @@ void assignment_1::readDnaFile(string file)
 
 void assignment_1::standardDeviation()
 {
-	standDev = (pow(variance, .5));
+	standDev = (pow(variance, 0.5));
 }
 
 int assignment_1::getSum()
@@ -213,7 +213,7 @@ double assignment_1::getVariance()
 	return variance;
 }
 
-double assignment_1::getStanDev()
+double assignment_1::getStandDev()
 {
 	return standDev;
 }
@@ -236,7 +236,7 @@ void assignment_1::nucle_Probability()
 
 void assignment_1::bigramProbability()
 {
-	ofstream outputFile("AlbertoGaribay.txt", ios_base::app)
+	ofstream outputFile("AlbertoGaribay.txt", ios_base::app);
 
 	aa_probab = (aa_counter * 1.0) / bigram_sum;
 	ac_probab = (ac_counter * 1.0) / bigram_sum;
@@ -292,7 +292,7 @@ void assignment_1::createDna()
 
 	string letter = "ACTG";
 
-	while(countLines <= 1000)
+	while(countLines < 1001)
 	{
 		double w = rand() * 1.0 / RAND_MAX;
 		double x = rand() * 1.0 / RAND_MAX;

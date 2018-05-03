@@ -17,26 +17,19 @@ int main(int argc, char** argv)
 
 	int runProg;
 
-
-	if(!myfile) // this is to check if the file can be read or not
-	{
-		cerr << "Unable to open file";
-		exit(1); //this calls the system to stop
-	}
-
 	while(true)
 	{
-		myfile.fileReader(file);
+		myfile.readDnaFile(dnaFile);
 
 		myfile.standardDeviation();
 
-		ofstream outputFile("AlbertoGaribay.txt");
+		ofstream outputFile("AlbertoGaribay.txt", ios_base::app);
 
 		outputFile << "Alberto Garibay" << endl;
 		outputFile << "ID 2271460" << endl;
 		outputFile << "garib112@mail.chapman.edu" << endl;
 
-		outputFile << "Statistics: " << endl << endl:
+		outputFile << "Statistics: " << endl << endl;
 
 		outputFile << "Sum = " << myfile.getSum() << endl << endl;
 		outputFile << "Mean = " << myfile.getMean() << endl << endl;
@@ -47,7 +40,7 @@ int main(int argc, char** argv)
 		myfile.bigramProbability();
 		myfile.createDna();
 
-		cout << "Run again??? Press 1 to run again and 2 to quit."
+		cout << "Run again??? Press 1 to run again and 2 to quit." << endl;
 
 		cin >> runProg;
 
@@ -58,7 +51,7 @@ int main(int argc, char** argv)
 		else
 		{
 			cout << "Enter file name";
-			cin << file;
+			cin >> dnaFile;
 		}
 
 	}
