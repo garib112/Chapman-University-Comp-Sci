@@ -6,5 +6,6 @@ This repository contains all the computer science work that I have done during m
 
 It current contains the following folders:
 
-CPSC_231 - Java
-CPSC_350 - Data Structures & Algorithms
+CPSC_230 - Python;
+CPSC_231 - Java;
+CPSC_350 - Data Structures & Algorithms;
