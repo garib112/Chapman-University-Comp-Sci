@@ -1,0 +1,7 @@
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\bin\Debug\AGaribay_proj3.exe.config
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\bin\Debug\AGaribay_proj3.exe
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\bin\Debug\AGaribay_proj3.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\obj\Debug\AGaribay_proj3.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\obj\Debug\AGaribay_proj3.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\obj\Debug\AGaribay_proj3.exe
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\AGaribay_proj3\AGaribay_proj3\obj\Debug\AGaribay_proj3.pdb

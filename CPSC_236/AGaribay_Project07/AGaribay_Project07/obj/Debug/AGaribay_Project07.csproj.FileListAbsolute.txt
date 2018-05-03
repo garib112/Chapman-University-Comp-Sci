@@ -1,0 +1,8 @@
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\AGaribay_Project07.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\AGaribay_Project07.Form1.resources
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\AGaribay_Project07.Form2.resources
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\Project07_agaribay.Properties.Resources.resources
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\AGaribay_Project07.csproj.GenerateResource.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\AGaribay_Project07.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\Project07_agaribay.exe
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\All Homework Assignments\Project07_agaribay\Project07_agaribay\Project07_agaribay\obj\Debug\Project07_agaribay.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\bin\Debug\Agaribay_Project08.exe.config
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\bin\Debug\Agaribay_Project08.exe
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\bin\Debug\Agaribay_Project08.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.Form1.resources
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.Properties.Resources.resources
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.csproj.GenerateResource.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.exe
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\Agaribay_Project08\Agaribay_Project08\obj\Debug\Agaribay_Project08.pdb
